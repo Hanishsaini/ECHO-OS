@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+pydantic
+openai
+pinecone-client
+python-dotenv
+stripe
+tenacity
