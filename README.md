@@ -143,7 +143,6 @@ Please open an issue first for major changes.
 ## Troubleshooting
 
 - **Terminal Issues**: Run `fix_terminal.sh` to resolve common setup problems.
-- **Dependency Errors**: Ensure Python and Node versions match prerequisites; reinstall dependencies.
 - **API Key Issues**: Verify keys in `.env` files and check for rate limits on external services.
 
 ## License
