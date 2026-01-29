@@ -149,7 +149,3 @@ Please open an issue first for major changes.
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contact
-
-For questions, issues, or support, open an issue on the [GitHub repository](https://github.com/Hanishsaini/ECHO-OS). You can also reach out to the maintainer at [your email or contact info if available].
